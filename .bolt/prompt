@@ -1,0 +1,10 @@
+Stiamo sviluppando un sito web che funge da pannello di gestione per le e-mail in arrivo collegate alla casella di posta di Instagram, tramite integrazione con le API di Instantly.
+
+Le funzionalità principali del sito includono:
+	•	Lettura automatica delle e-mail non lette: il sistema recupera le e-mail non ancora lette e le visualizza nella sezione dedicata.
+	•	Visualizzazione delle e-mail: l’utente può selezionare un’e-mail dall’elenco per leggerne il contenuto.
+	•	Generazione automatica di risposte: è presente un pulsante “Genera Risposta” che, tramite l’integrazione con ChatGPT, elabora una risposta basandosi sul contenuto dell’e-mail selezionata.
+	•	Azioni disponibili sull’e-mail:
+	•	Inviare la risposta generata tramite le API di Instantly
+	•	Impostare un promemoria per rispondere in un secondo momento
+	•	Segnare come letta l’e-mail
